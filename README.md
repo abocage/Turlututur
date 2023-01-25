@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Arthur (but my friends call me Tutur)</h1>
 <h3 align="center">A passionate (futur) web developer from France</h3>
 
-- 🌱 I’m currently learning Ruby On Rails **Rails**
+- 🌱 I’m currently learning Ruby On Rails
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
